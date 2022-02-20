@@ -1,0 +1,19 @@
+.wrap{
+    display: flex; 
+    margin-top: 50px;
+    flex-flow:wrap ;
+}
+h1{
+    text-align: center;
+}
+
+.box{
+    height: 270px;
+    width: 30.33%;
+    background-color: black;
+    margin-left: 20px;
+    margin-bottom: 50px;
+}
+img{
+    width: 100%;
+}
